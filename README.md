@@ -48,3 +48,6 @@ npm run dev
 [ ] UPI Transaction History Import (CSV/SMS parsing).
 
 [ ] SIP/Mutual Fund performance tracking intregration.
+
+
+MADE BY:- ASHWIN PRATAP SINGH
